@@ -1,2 +1,4 @@
 helllo SoftUni
-Let's go to dring beer.
+Let's go to drink beer.
+
+Java Exam comming soon! 
